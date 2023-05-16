@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1> bienvenidos a nuestro sitio web</h1>
+        <nav>
+            <ul>
+                <li><a href=""> inicio</a>  </li>
+                <li><a href=""> acerca de nosotros</a></li>
+                <li> <a href="">contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1> seccion 1</h1>
+            <p> tecto Lorem</p>
+            <article>
+                <h3> texto articulo numero 1</h3>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam consectetur corrupti cumque, fugiat doloremque provident fuga ratione dolore dicta voluptatem quam illo itaque tempore magni maxime laudantium, dolorum perferendis assumenda.</p>
+
+            </article>
+
+        </section>
+        <section>
+            <h1> seccion 2</h1>
+            <p> tecto Lorem</p>
+            <article>
+                <h3> texto articulo numero 2</h3>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam consectetur corrupti cumque, fugiat doloremque provident fuga ratione dolore dicta voluptatem quam illo itaque tempore magni maxime laudantium, dolorum perferendis assumenda.</p>
+
+            </article>
+           
+
+        </section>
+        <aside>
+            <h3> aside</h3>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eos fugit saepe sit ut minus sunt neque? Possimus magnam est, perspiciatis facere excepturi atque, et consequatur, suscipit voluptate id nesciunt!</p>
+        </aside>
+    </main>
+    <footer>
+        <p> pagina creada en la clase de html-css en global</p>
+    </footer>
+</body>
+</html>
